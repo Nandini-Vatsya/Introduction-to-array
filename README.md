@@ -11,4 +11,10 @@
 https://www.programiz.com/c-programming/c-arrays
 <br></br>
 ![image](https://user-images.githubusercontent.com/125802204/222045679-980dc7a2-c02b-4838-8803-87efa7d67944.png)
+<br>
+<br>
+<b><ins>Output</b></ins>
+<br>
+<img width="497" alt="Sum of array" src="https://user-images.githubusercontent.com/125802204/234177613-fbdf6678-fca8-4f5b-8f6a-c4db4f0e296b.png">
+
 
